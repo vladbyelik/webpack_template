@@ -1,0 +1,22 @@
+@import "~normalize.css";
+@import "fonts.css";
+
+body {
+    font-family: 'AkayaKanadaka', sans-serif;
+}
+
+.container {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pic {
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+    margin: 0 auto;
+}
